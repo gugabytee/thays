@@ -23,7 +23,7 @@ function iniciarAnimacao() {
     });
 
     
-    const textoCompleto = "Você é especial Be!!!💛";
+    const textoCompleto = "Você é especial Thaysss!!!💛";
     let indexDigitacao = 0;
     textoAnimado.textContent = '';
     cursor.style.display = 'inline';
